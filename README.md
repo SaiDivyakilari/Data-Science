@@ -1,10 +1,10 @@
-# 📱 ReCell – ML-Based Dynamic Pricing Model for Used Devices
+#  ReCell – ML-Based Dynamic Pricing Model for Used Devices
 
 This project aims to help **ReCell**, a startup in the refurbished electronics market, build a **data-driven pricing model** to predict the resale value of used smartphones and tablets using **Linear Regression**.
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 The used and refurbished smartphone market is growing rapidly. To stay competitive, ReCell needs a **dynamic pricing solution** that determines the fair market value of pre-owned devices.
 
@@ -12,7 +12,7 @@ This project explores various device attributes — such as **brand**, **storage
 
 ---
 
-## 🚀 Objectives
+##  Objectives
 
 - Analyze the dataset through **Exploratory Data Analysis (EDA)**  
 - Perform **data cleaning** and **feature engineering**
@@ -28,7 +28,7 @@ This project explores various device attributes — such as **brand**, **storage
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 - **Language:** Python  
 - **Libraries:** pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
@@ -37,7 +37,7 @@ This project explores various device attributes — such as **brand**, **storage
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
 - Brand and storage capacity are the strongest predictors of resale price.  
 - Devices in better physical condition maintain significantly higher resale value.  
@@ -45,14 +45,14 @@ This project explores various device attributes — such as **brand**, **storage
 
 ---
 
-## 📈 Results
+##  Results
 
 - Achieved reliable regression performance with meaningful insights for **dynamic pricing strategy**.  
 - Model interpretability helps ReCell make data-driven business decisions.  
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 ReCell_Pricing_Model/
@@ -65,7 +65,7 @@ ReCell_Pricing_Model/
 
 ---
 
-## 🧩 Skills Demonstrated
+##  Skills Demonstrated
 
 - Data Cleaning & EDA  
 - Linear Regression Modeling  
@@ -76,13 +76,3 @@ ReCell_Pricing_Model/
 
 ---
 
-## 📬 Contact
-
-**Author:** [Your Name]  
-**LinkedIn:** [your-linkedin-profile]  
-**GitHub:** [your-github-username]  
-**Email:** [your.email@example.com]
-
----
-
-⭐ *If you found this project useful, consider giving it a star!*
