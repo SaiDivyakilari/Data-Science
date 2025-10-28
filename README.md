@@ -52,18 +52,6 @@ This project explores various device attributes — such as **brand**, **storage
 
 ---
 
-##  Repository Structure
-
-```
-ReCell_Pricing_Model/
-│
-├── ReCell_Pricing_Model.ipynb     # Main Jupyter Notebook
-├── data/                          # Dataset (if public)
-├── README.md                      # Project overview
-└── requirements.txt               # Python dependencies
-```
-
----
 
 ##  Skills Demonstrated
 
